@@ -1,0 +1,3 @@
+{
+  "extends": "@dsm-ignite-ui/eslint-config"
+}

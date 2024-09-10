@@ -1,0 +1,1 @@
+import { colors } from '@dsm-ignite-ui/tokens'
